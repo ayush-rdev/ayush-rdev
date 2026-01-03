@@ -8,7 +8,7 @@ I am a developer focused on building efficient tools and exploring system archit
 - 🔭 I’m currently working on **Python Automation & Scripting**.
 - 🌱 I’m constantly learning **Linux Environments & Terminal Workflows**.
 - 🐧 **Environment:** Linux (CLI focused).
-- ⚡ **Interests:** Physics, Logic, and Backend Development.
+- ⚡ **Interests:*Linux,Cli,philosophy & Physics* .
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
