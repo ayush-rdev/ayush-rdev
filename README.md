@@ -1,14 +1,14 @@
-### Hi there, I'm Ayush 👋
+### Hi there, I'm Ayush ❤️
 
 I am a developer focused on building efficient tools and exploring system architecture.
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **Python Automation & Scripting**.
-- 🌱 I’m constantly learning **Linux Environments & Terminal Workflows**.
-- 🐧 **Environment:** Linux (CLI focused).
-- ⚡ **Interests:** Philosophy & Physics
+### 👤 About Me
+- I’m currently working on **Python Automation & Scripting**.
+- I’m constantly learning **Linux Environments & Terminal Workflows**.
+- **Environment:** Linux🐧 (CLI focused).
+- **Interests:** Philosophy & Physics
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
