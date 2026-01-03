@@ -21,7 +21,9 @@ I am a developer focused on building efficient tools and exploring system archit
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush-rdev&show_icons=true&theme=dark&hide_border=true)"/>
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-rdev&show_icons=true&theme=dark&hide_border=true" alt="stats graph" />
 </div>
 
 ---
