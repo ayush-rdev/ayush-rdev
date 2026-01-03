@@ -18,5 +18,5 @@ I am a developer focused on building efficient tools and exploring system archit
 
 ---
 <div align="center">
-  <i>"ASCEND 🩵"</i>
+  <i>ASCEND 🩵</i>
 </div>
