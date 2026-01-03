@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi there, I'm Ayush 👋
 
-<!--
-**ayush-rdev/ayush-rdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&width=435&lines=Software+Developer;Linux+Enthusiast;Python+Automation;System+Explorer" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I am a developer focused on building efficient tools and exploring system architecture.
+- 🔭 I’m currently working on **Python Automation & Scripting**.
+- 🌱 I’m constantly learning **Linux Environments & Terminal Workflows**.
+- 🐧 **Environment:** Linux (CLI focused).
+- ⚡ **Interests:** Physics, Logic, and Backend Development.
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-rdev&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph"  />
+</div>
+
+---
+<div align="center">
+  <i>"Simplicity is the ultimate sophistication."</i>
+</div>
