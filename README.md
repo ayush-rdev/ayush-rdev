@@ -1,12 +1,12 @@
 ### Hi there, I'm Ayush ❤️
 
-I am a developer focused on building efficient tools and exploring system architecture.
+I am a developer focused on building efficient tools and understanding how system works.
 
 ---
 
 ### 👤 About Me
-- I’m currently working on **Python Automation & Scripting**.
-- I’m constantly learning **Linux Environments & Terminal Workflows**.
+- currently working on **Python Automation & Scripting**.
+- constantly learning **Linux Environments & Terminal Workflows**.
 - **Environment:** Linux🐧 (CLI focused).
 - **Interests:** Philosophy & Physics
 
