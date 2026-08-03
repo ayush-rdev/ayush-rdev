@@ -1,14 +1,14 @@
 ### Hi there, I'm Ayush ❤️
 
-I am a developer focused on building efficient tools and understanding how system works.
+Low-level Hobbyist // Cloud & Security // Economics // Health & Fitness
 
 ---
 
 ### 👤 About Me
-- currently working on **Python Automation & Scripting**.
-- constantly learning **Linux Environments & Terminal Workflows**.
-- **Environment:** Linux🐧 (CLI focused).
-- **Interests:** Philosophy & Physics
+- Currently Learning: C, C++, and Python, while building a strong foundation in computer science.
+- Current Focus: Cybersecurity, cloud architecture, and hardware-software interaction (ESP32).
+- Environment: Linux Mint 🐧 (CLI focused: i3 window manager, Zsh, tmux) alongside Docker and local server deployments.
+- Interests: Philosophy, Physics, complex systems (sci-fi and psychological thrillers) and daily physical fitness.
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
