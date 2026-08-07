@@ -1,20 +1,31 @@
-### Hi there, I'm Ayush❤️
+### Hi there, I'm Ayush 🩷
 
 I'm a computer science student and low-level hobbyist, building a strong foundation in cloud architecture, cybersecurity, and backend infrastructure.
 
 ### 👤 Who I Am & What I Work On
+
 - **Current Focus:** Cybersecurity (Kali Linux network audits), Cloud Architecture, and Hardware-Software Interaction (ESP32).
 - **Projects & Deployments:** Managing local server environments (Docker, Frigate, Mosquitto) and web application deployments (Vercel, Railway, Render).
 - **Environment:** Arch Linux & Kali Linux 🐧 (CLI-centric workflow: i3 window manager, Zsh, tmux).
 - **Interests:** Philosophy, Tech-Science & my daily physical fitness routine.
 
 ### 🛠️ Tools I Use
-- **Languages:** Python, C, C++, Bash
-- **Systems & Cloud:** Kali Linux, Docker, Local Servers, Vercel, Railway, Render
-- **Workflow:** Git, tmux, Zsh, i3wm
+
+<br>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" height="35" alt="Python" /> &nbsp; &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35" height="35" alt="C" /> &nbsp; &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="35" height="35" alt="C++" /> &nbsp; &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="35" height="35" alt="Bash" /> &nbsp; &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35" height="35" alt="Linux" /> &nbsp; &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="35" height="35" alt="Docker" /> &nbsp; &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" height="35" alt="Git" />
+</p>
+<br>
 
 ### 📫 How to Reach Me
-- **Email:** Ayushr.in@proton.me
+
+- **Email:** [Ayushr.in@proton.me](mailto:Ayushr.in@proton.me)
 
 ---
 <div align="center">
