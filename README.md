@@ -1,6 +1,6 @@
 ### Hi there, I'm Ayush❤️
 
-I'm a computer science student and low-level hobbyist, building a Strong foundation in cloud architecture, cybersecurity, and backend infrastructure.
+I'm a computer science student and low-level hobbyist, building a strong foundation in cloud architecture, cybersecurity, and backend infrastructure.
 
 ### 👤 Who I Am & What I Work On
 - **Current Focus:** Cybersecurity (Kali Linux network audits), Cloud Architecture, and Hardware-Software Interaction (ESP32).
