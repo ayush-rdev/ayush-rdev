@@ -14,7 +14,7 @@ I'm a computer science student and low-level hobbyist, building a Strong foundat
 - **Workflow:** Git, tmux, Zsh, i3wm
 
 ### 📫 How to Reach Me
-- **Email:** [Ayushr.in@proton.me]
+- **Email:** Ayushr.in@proton.me
 
 ---
 <div align="center">
