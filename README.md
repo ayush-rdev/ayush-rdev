@@ -1,4 +1,4 @@
-### Hi there, I'm Ayush Rajput ❤️
+### Hi there, I'm Ayush❤️
 
 I'm a computer science student and low-level hobbyist focused on building a robust foundation in cloud architecture, cybersecurity, and backend infrastructure.
 
