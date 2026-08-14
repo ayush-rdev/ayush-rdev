@@ -1,5 +1,5 @@
 ### Hi there,
-I'm a computer science student and hobbyist, into cloud architecture, cybersecurity, and Artificial Intelligence && Machine-Learning .
+I'm a computer science student/hobbyist, into cloud architecture, cybersecurity, and Artificial Intelligence && Machine-Learning .
 
 ### 📫 How to Reach Me
 
