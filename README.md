@@ -6,6 +6,9 @@ I'm a computer science student/hobbyist, into cloud architecture, cybersecurity,
 - **Email:** [Ayushr.in@proton.me](mailto:Ayushr.in@proton.me)
 
 ---
+
 <div align="center">
+  <img src="./orbital_recon.gif" alt="Orbital Recon // Real-Time Telemetry" width="720" />
+  <br/><br/>
   <i>ASCEND 🩵</i>
 </div>

@@ -1,0 +1,41 @@
+name: Refresh Orbital Recon
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-recon:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install pillow
+
+      - name: Render Orbital Recon Animation
+        run: |
+          python scripts/generate_recon.py
+
+      - name: Commit and Push if updated
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add orbital_recon.gif
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(recon): update live orbital telemetry animation [skip ci]"
+            git push
+          fi
