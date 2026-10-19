@@ -1,61 +1,91 @@
 <div align="center">
 
 ```
-    _   __   __ _   _ ____  _   _ 
-   / \  \ \ / /| | | / ___|| | | |
-  / _ \  \ V / | | | \___ \| |_| |
- / ___ \  | |  | |_| |___) |  _  |
-/_/   \_\ |_|   \___/|____/|_| |_|
+                .  :  *  :  .
+              :      |      :
+           .         |         .
+          '    .-----|-----.    '
+         :    /      |      \    :
+        .    /       |       \    .
+       ---===[     ( O )     ]===---
+        .    \       |       /    .
+         :    \      |      /    :
+          .    '-----|-----'    .
+           '         |         '
+              :      |      :
+                '  : * :  '
 ```
 
-# AYUSH
-### ARCH // WAYLAND // SYSTEMS // SECURITY
+### [ THE OBSERVER // TRANSDUCER ]
+**SILICON MONASTICISM · NETI NETI · ZERO NOISE**
 
-`Arch Linux` · `Hyprland` · `Rust` · `C/C++` · `Python` · `Docker` · `Tauri`
-
----
-
-| SPEC | TARGET |
-| :--- | :--- |
-| **KERNEL** | `Linux x86_64` (Zen Hardened) |
-| **COMPOSITOR** | `Hyprland` (Native Wayland IPC) |
-| **CORE** | `C` · `Rust` · `Lua` · `Assembly` · `Syscalls` · `eBPF` |
-| **SECURITY** | `Kali` · `Docker` · `WireGuard` · `Tor` · `Metasploit` · `GDB` |
-| **UI ENGINES** | `Tauri v2` · `React 19` · `Compose` · `Astro 5` · `Tailwind` |
-| **DOCTRINE** | `Local Sovereignty` · `Zero Telemetry` · `Sub-Millisecond IPC` |
+`@ayush-rdev`
 
 ---
 
-### INDEX // PRODUCTION WORK
+```
+[+] VESSEL         :: SILICON // BIOLOGICAL CASING
+[+] CONSCIOUSNESS  :: UNBOUNDED // NON-LOCAL
+[+] SADHANA        :: SYSTEM ARCHITECTURE AS TAPASYA
+[+] DISCIPLINE     :: BRAHMACHARYA // PRANIC TRANSMUTATION
+[+] STATE          :: KAIVALYA // DETACHMENT: ABSOLUTE
+[+] ENTROPY        :: ZERO
+```
 
-| REPOSITORY | DOMAIN | ARCHITECTURE & STACK |
+---
+
+### [ TRANSMUTED RELICS // CODE BASES ]
+
+| RELIC | SACRED GEOMETRY | MANIFESTATION |
 | :--- | :--- | :--- |
-| **[omarchy-macos-theme](https://github.com/ayush-rdev/omarchy-macos-theme)** | Wayland Compositor Runtime | `Hyprland` `Lua` `Dual Kawase` `Socket2` |
-| **[monolith-notes](https://github.com/ayush-rdev/monolith-notes)** | Sovereign Markdown Knowledge Graph | `Kotlin` `Compose` `Rust` `Tauri v2` `RAG` |
-| **[omarchy-hacker-theme](https://github.com/ayush-rdev/omarchy-hacker-theme)** | Obsidian Cyberpunk Desktop | `Hyprland` `Quickshell` `4K Matrix` |
-| **[kalideck](https://github.com/ayush-rdev/kalideck)** | Mobile Kali Pentest Console | `Docker API` `PTY WebSockets` `Node` `React` |
-| **[ayushwrites](https://github.com/ayush-rdev/ayushwrites)** | Indie Publishing Studio | `Astro 5` `ClientRouter` `GitHub REST API` |
-| **[ayush-rdev.github.io](https://github.com/ayush-rdev/ayush-rdev.github.io)** | Digital Garden | `Static HTML` `CSS Custom Properties` |
+| **[monolith-notes](https://github.com/ayush-rdev/monolith-notes)** | Galaxy Link Topology · Synaptic RAG | `120Hz Neural Canvas` `Local Sovereignty` `Void` |
+| **[omarchy-macos-theme](https://github.com/ayush-rdev/omarchy-macos-theme)** | Dual Kawase Refraction · Ephemeral Spaces | `Hyprland Shaders` `Socket2 Destruction` `Glass` |
+| **[omarchy-hacker-theme](https://github.com/ayush-rdev/omarchy-hacker-theme)** | Obsidian Void · Phosphor Matrix | `Rigid Chamfers` `Rotating Loop` `Late Night` |
+| **[kalideck](https://github.com/ayush-rdev/kalideck)** | The Veil · Offensive Labyrinth | `PTY Multiplex` `Tor Isolation` `Docker Socket` |
+| **[ayushwrites](https://github.com/ayush-rdev/ayushwrites)** | Ephemeral Inscriptions · Field Notes | `ClientRouter Crossfade` `Caveat Font` `Static` |
 
 ---
 
-### TELEMETRY
+### [ GNOSIS // INVARIANTS ]
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayush-rdev&show_icons=true&theme=tokyonight&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=888888&bg_color=00000000" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-rdev&layout=compact&theme=tokyonight&hide_border=true&title_color=ffffff&text_color=888888&bg_color=00000000" height="150" />
+```
+                                  .
+                                 / \
+                                /   \
+                               /     \
+                              /   *   \
+                             /_________\
+```
+
+$$\Psi(\text{Intent}) \longrightarrow \text{Silicon} \longrightarrow \text{Emptiness}$$
+
+$$\mathcal{S}(n) = \text{TF-IDF}(q, n) + \sum_{j \in \text{Adj}(n)} \lambda \cdot \mathcal{S}(j) \quad \mid \quad \lambda = 0.25$$
+
+---
+
+### [ TELEMETRY INTO THE VOID ]
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayush-rdev&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff88&icon_color=00e5ff&text_color=555555&bg_color=00000000" height="145" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-rdev&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff88&text_color=555555&bg_color=00000000" height="145" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ayush-rdev&theme=tokyonight&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=888888" height="150" />
+<img src="https://streak-stats.demolab.com?user=ayush-rdev&theme=tokyonight&hide_border=true&background=00000000&stroke=333333&ring=00ff88&fire=00e5ff&currStreakNum=ffffff&sideNums=444444&currStreakLabel=00ff88" height="145" />
 
 ---
 
-`Ayushr.in@proton.me` · [`ayush-rdev.github.io`](https://ayush-rdev.github.io/) · [`ayushwrites`](https://ayush-rdev.github.io/ayushwrites/)
+```
+[ TRANSMISSION ]  ::  Ayushr.in@proton.me
+[ SANCTUARY ]     ::  https://ayush-rdev.github.io/
+[ CHRONICLES ]    ::  https://ayush-rdev.github.io/ayushwrites/
+```
 
 <br/>
 
 ```
-ASCEND
+TATHATA.
+NETI NETI.
+ASCEND.
 ```
 
 </div>
