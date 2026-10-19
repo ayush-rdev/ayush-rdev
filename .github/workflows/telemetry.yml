@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Fetch Live Telemetry and Render SVG
+      - name: Fetch Live Telemetry and Update README
         run: |
           python scripts/update_telemetry.py
 
@@ -28,7 +28,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add telemetry.svg
+          git add README.md
           if git diff --staged --quiet; then
             echo "No telemetry changes to commit."
           else
